@@ -1,0 +1,7 @@
+scipy
+numpy
+sklearn
+matplotlib
+fastdtw
+pandas
+dtaidistance

@@ -1,0 +1,9 @@
+output/
+__pycache__/
+data_original/
+.idea/
+Ignore/
+nohup.out
+remote.sh
+test.py
+data_generated/view/
